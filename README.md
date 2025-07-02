@@ -3,7 +3,7 @@
 ### Introduction
 This repository contains my final project for the Paradigms of Programming course (PP), whose goal was to develop an application enabling an institution to plan routes for collecting items from its various containers. There are two types of vehicles available to the institution: those that carry perishable items and those that carry non-perishable items, each vehicle being able to transport only one of these item types. The route planning automatically generates the collection route while always aiming to minimize the total distance, taking into account that each vehicle has a load capacity limit and a specified item type.  
 For route generation, I did not use graphs because the instructor prohibited their use, as graphs would only be covered in the Data Structures course (ED) the following year.  
-Unfortunately, I cannot show the project assignment document because I did not save it.
+Unfortunately, I can’t show the project assignment because I didn’t manage to save it
 
 ### Languages and Tools
 - **Programming language:** Java  
